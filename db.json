@@ -1,0 +1,64 @@
+{
+    "appointments": [
+        {
+            "name": "John Doe",
+            "date": "2024/05/13 09:55:20 AM",
+            "reason":"Regularcheckup",
+            "id": 1
+        },
+        {
+            "name": "Smijo",
+            "date": "2024/06/03 09:45:20 AM",
+            "reason":"Regularcheckup",
+            "id": 2
+        },
+        {
+            "name": "Arjun",
+            "date": "2024/07/13 09:55:20 AM",
+            "reason":"Regularcheckup",
+            "id": 3
+        },
+        {
+            "name": "Ashid",
+            "date": "2024/05/13 10:55:30 AM",
+            "reason":"Regularcheckup",
+            "id": 4
+        },
+        {
+            "name": "Ajay",
+            "date": "2024/05/13 04:55:20 PM",
+            "reason":"Regularcheckup",
+            "id": 5
+        },
+        {
+            "name": "Mariya",
+            "date": "2024/08/13 09:55:20 AM",
+            "reason":"Regularcheckup",
+            "id": 6
+        },
+        {
+            "name": "Affi",
+            "date": "2024/02/03 09:45:20 AM",
+            "reason":"Regularcheckup",
+            "id": 7
+        },
+        {
+            "name": "Aadhil",
+            "date": "2024/03/13 09:55:20 AM",
+            "reason":"Regularcheckup",
+            "id": 8
+        },
+        {
+            "name": "Abhi",
+            "date": "2024/09/13 10:55:30 AM",
+            "reason":"Regularcheckup",
+            "id": 9
+        },
+        {
+            "name": "Amar",
+            "date": "2024/01/13 04:55:20 PM",
+            "reason":"Regularcheckup",
+            "id": 10
+        }
+    ]
+}
